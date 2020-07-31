@@ -2,7 +2,8 @@
 
 #### ARIMA Modelling in R and Python.
 
-Walmart_2.csv and GER_retail_sales.xlsx are the data used for this project.
+Walmart_2.csv - Walmart quarterly sales ($ billion) for the period 2003Q1-2015Q4<br/>
+GER_retail_sales.xlsx - Germany monthly retail sales (€ million) for the period Jan2000-Mar2020
 
 Apart from that included are the files:
 
