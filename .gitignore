@@ -38,9 +38,5 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# Data
-*.xlsx
-*.csv
-
 #jupyter files
 .ipynb_checkpoints/
