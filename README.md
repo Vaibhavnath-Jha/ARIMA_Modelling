@@ -6,7 +6,7 @@ Walmart_2.csv and GER_retail_sales.xlsx are the data used for this project.
 
 Apart from that included are the files:
 
-Arima_model.rmd -> R markdown file for the project
+Arima_model.rmd -> R markdown file for the project</br>
 SARIMA.ipynb -> Jupyter notebook (python) file for the project
 
 
