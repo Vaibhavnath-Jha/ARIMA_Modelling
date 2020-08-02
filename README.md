@@ -17,4 +17,5 @@ Memory -> 8GB RAM<br/>
 GPU    -> Nvidia Geforce MX150<br/>
 VRAM   -> 2GB <br/>_
 
-This is to show the changes
+Changes Done
+
